@@ -1,0 +1,1 @@
+{"title": "OSMOSE Explorer", "server": "http:\/\/69.162.121.100:4100\/api", "alias": "OSMOSE", "activeDelegates": "51", "rewardOffset": 0, "currencies": [], "knownWallets": {}, "defaults": {"currency": null}, "config": {"priceChart": false}}
